@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mom-bus-comunic@^1.0.0",
+        "scope": null,
+        "escapedName": "mom-bus-comunic",
+        "name": "mom-bus-comunic",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "D:\\documentos\\hugo\\Dropbox\\uni\\sist_distr\\labo\\servers\\mama_node\\node_modules\\mom-nucleo"
+    ],
+    [
+      {
+        "raw": "mom-bus-comunic@^1.0.8",
+        "scope": null,
+        "escapedName": "mom-bus-comunic",
+        "name": "mom-bus-comunic",
+        "rawSpec": "^1.0.8",
+        "spec": ">=1.0.8 <2.0.0",
+        "type": "range"
+      },
+      "D:\\documentos\\hugo\\Dropbox\\uni\\sist_distr\\labo\\servers\\mama_node\\node_modules\\mom-nucleo"
+    ]
+  ],
+  "_from": "mom-bus-comunic@^1.0.8",
+  "_id": "mom-bus-comunic@1.0.8",
+  "_inCache": true,
+  "_location": "/mom-bus-comunic",
+  "_nodeVersion": "6.11.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/mom-bus-comunic_1.0.8_1519333445949_0.8611230742980547"
+  },
+  "_npmUser": {
+    "name": "poximan",
+    "email": "poxi_man@yahoo.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "mom-bus-comunic@^1.0.8",
+    "scope": null,
+    "escapedName": "mom-bus-comunic",
+    "name": "mom-bus-comunic",
+    "rawSpec": "^1.0.8",
+    "spec": ">=1.0.8 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/mom-nucleo"
+  ],
+  "_resolved": "https://registry.npmjs.org/mom-bus-comunic/-/mom-bus-comunic-1.0.8.tgz",
+  "_shasum": "9b55bdcba01ebbbdc5fc6b0c62cb253bdaf312ec",
+  "_shrinkwrap": null,
+  "_spec": "mom-bus-comunic@^1.0.8",
+  "_where": "D:\\documentos\\hugo\\Dropbox\\uni\\sist_distr\\labo\\servers\\mama_node\\node_modules\\mom-nucleo",
+  "author": {
+    "name": "hugo donato"
+  },
+  "dependencies": {},
+  "description": "bus de comunicaciones para intercambio de mensajes internos de un servidor. basado en EventEmitter.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9b55bdcba01ebbbdc5fc6b0c62cb253bdaf312ec",
+    "tarball": "https://registry.npmjs.org/mom-bus-comunic/-/mom-bus-comunic-1.0.8.tgz",
+    "fileCount": 3,
+    "unpackedSize": 2598
+  },
+  "keywords": [
+    "eventEmitter",
+    "event-driven-prog"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "poximan",
+      "email": "poxi_man@yahoo.com"
+    }
+  ],
+  "name": "mom-bus-comunic",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8"
+}
