@@ -1,6 +1,6 @@
 {
   "name": "mom-bus-comunic",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "description": "Wrapper de EventEmitter para emitir y escuchar eventos asincronicos",
   "main": "index.js",
   "scripts": {
